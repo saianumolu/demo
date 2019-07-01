@@ -1,1 +1,38 @@
-cd current directory
+Linux commands:
+ls	It will list all the contents of the current directory
+cd	Changes the current working directory if mentioned or else changes to user home
+mkdir	Creates new directory
+rmdir	Removes a directory specified.
+cp sourcefile targetfile	Copies from source file to target file.
+mv sourcefile targetfile	Copies from source file to target file then deletes original file.
+rm file	Removes specified file from file system.
+ln sourcefile target file	Creates a internal link from source file to target file 
+chown	Transfers the ownership of file to user with specified username.
+chmod	Used to change the access mode of a file.
+locate	It specifies in which directory a specified file is located.
+find	It allows you t search for a file in given directory.
+break	Uses to terminate the execution of the loop.
+cat	Reads data from the file and gives the output.
+chgrp	Used to change the group ownership of a file.
+clear	Used to clear the terminal screen.
+chroot	Used to change the root directory.
+date	Used to display system date and time.
+dir	Used to list the contents of the directory
+echo	Used to display line of text that are passed as an argument.
+exit	Used to exit the shell where it is currently running.
+file	Used to setermine the type of file
+kill	Uses to terminate the processes manually.
+last	Used to display the list of all users loggedin and out since created.
+man	Used to display the user manual of any command.
+passwd	Used to change the user account passwords.
+pwd	It shows the path of working directory from root.
+touch	Used to create, change and modify the file.
+vi	It is the default editor.
+who	Used to get the information who currently logged into the system.
+Diff file1 file2 	Checks the difference between files and prints the lines which was not matched.
+	
+	
+	
+	
+
+
